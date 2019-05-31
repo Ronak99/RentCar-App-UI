@@ -1,0 +1,31 @@
+name: rentcar_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  
+  carousel_slider: ^1.3.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/corvette_front.png
+    - assets/corvette_back.png
+    - assets/corvette_front2.png
+    - assets/interior1.png
+    - assets/interior2.png
+    - assets/lambo_front.png
+    - assets/lambo_back.png
+    - assets/interior_lambo.png 
