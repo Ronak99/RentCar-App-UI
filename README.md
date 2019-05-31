@@ -1,16 +1,16 @@
-# RentCar App
+# Rent Car App UI in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-Rent Car app UI, watch video on [youtube](https://youtu.be/80vWzQB0Eto)
+Get the complete code of this UI, and for guidance, you can also watch [here](https://youtu.be/80vWzQB0Eto) video.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src='https://github.com/Ronak99/RentCar-App-UI/blob/master/screenshot/s1.png' align='left' width='35%'>
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://github.com/Ronak99/RentCar-App-UI/blob/master/screenshot/s2.png' align='left' width='35%'>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Getting Started With Flutter
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+ - [Flutter Website](https://flutter.dev/)
+
+
+ 
