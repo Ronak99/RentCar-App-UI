@@ -8,9 +8,3 @@ Get the complete code of this UI, and for guidance, you can also watch [here](ht
 
 <img src='https://github.com/Ronak99/RentCar-App-UI/blob/master/screenshot/s2.png' align='left' width='35%'>
 
-## Getting Started With Flutter
-
- - [Flutter Website](https://flutter.dev/)
-
-
- 
