@@ -1,6 +1,6 @@
-# rentcar_app
+# RentCar App
 
-A new Flutter project.
+Rent Car app UI, watch video on [youtube](https://youtu.be/80vWzQB0Eto)
 
 ## Getting Started
 
